@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peihaochan
-- 👀 I’m interested in DevOps!
-- 🌱 I’m currently learning Python, Golang and the use of CI/CD tools
+- 👀 I’m a Software Engineer @zklend using ReactJS and VueJS!
+- 🌱 I’m currently learning Cairo!
 - 📫 How to reach me - https://www.linkedin.com/in/pei-hao-chan/
 
 <!---
